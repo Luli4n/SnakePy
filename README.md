@@ -5,6 +5,6 @@ Terminal OOP snake implementation made for fun with Python.
 <br/>
 <i> '*' stands for head <br/> '#' stands for tail <br/> steering by arrows </i>
 <br/> <br/> <br/>
-It was made in 2-3 hours. 
+It was made in 1-2 hours. 
 Definitely not a rocket science! 
 
